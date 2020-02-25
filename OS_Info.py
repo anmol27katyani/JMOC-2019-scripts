@@ -1,3 +1,4 @@
+import math
 import subprocess
 from fpdf import FPDF as pdf
 
